@@ -26,7 +26,7 @@ spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 Como Executar
 Clone este repositório:
 
-git clone https://github.com/rfonseca1985/DesafioExplorandoPadroesDeProjetosNaPr-ticaComJava
+git clone https://github.com/rfonseca1985/DesafioExplorandoPadroesDeProjetosNaPraticaComJava
 
 Endpoints da API
 GET /api/movies: Obter todos os filmes
